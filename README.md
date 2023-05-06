@@ -39,9 +39,9 @@ Click the [Link](./Docs/Assignment%200.pdf) to see the complete guide on how to 
 
 The aim of the [Assignment 0](./Docs/Programming%20Assignment%200/) is to set up the environment and try a basic run of programming.
 
-## [Assignment 1](https://github.com/parth-20-07/2-DoF-Revolute-Revolute-robot-arm-Equation-of-Motion)
+## [Assignment 1: 2 DoF Revolute Revolute Robot Arm Equation of Motion](https://github.com/parth-20-07/2-DoF-Revolute-Revolute-robot-arm-Equation-of-Motion)
 
-The aim of [Assignment 1](https://github.com/parth-20-07/2-DoF-Revolute-Revolute-robot-arm-Equation-of-Motion) is to develop the Equations of Motion for a 2 DoF Revolute Revolute Robot Arm using Euler Lagrange Method.
+The aim of [Assignment 1: 2 DoF Revolute Revolute Robot Arm Equation of Motion](https://github.com/parth-20-07/2-DoF-Revolute-Revolute-robot-arm-Equation-of-Motion) is to develop the Equations of Motion for a 2 DoF Revolute Revolute Robot Arm using Euler Lagrange Method.
 
 ## [Assignment 2](https://github.com/parth-20-07/Position-Tracking-using-State-Feedback-Controller-Design-for-a-2-DoF-RRBot)
 
