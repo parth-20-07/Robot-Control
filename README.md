@@ -6,8 +6,8 @@
 - [Assignments](#assignments)
     - [Assignment 0: Setup Environment](#assignment-0-setup-environment)
     - [Assignment 1: 2 DoF Revolute Revolute Robot Arm Equation of Motion](#assignment-1-2-dof-revolute-revolute-robot-arm-equation-of-motion)
-    - [Assignment 2](#assignment-2)
-    - [Assignment 3](#assignment-3)
+    - [Assignment 2: Position Tracking using State Feedback Controller Design for a 2 DoF RRBot](#assignment-2-position-tracking-using-state-feedback-controller-design-for-a-2-dof-rrbot)
+    - [Assignment 3: Trajectory Tracking using State Feedback Linearization Control for a 2 DoF RRBot](#assignment-3-trajectory-tracking-using-state-feedback-linearization-control-for-a-2-dof-rrbot)
     - [Assignment 4](#assignment-4)
 - [Final Project](#final-project)
 - [Designer Details](#designer-details)
@@ -47,9 +47,9 @@ The aim of [Assignment 1: 2 DoF Revolute Revolute Robot Arm Equation of Motion](
 
 The aim of [Assignment 2: Position Tracking using State Feedback Controller Design for a 2 DoF RRBot](https://github.com/parth-20-07/Position-Tracking-using-State-Feedback-Controller-Design-for-a-2-DoF-RRBot) is to test the stability of a 2 DoF RRBot and design position tracking using a State-Feedback Controller.
 
-## [Assignment 3](https://github.com/parth-20-07/Trajectory-Tracking-using-State-Feedback-Linearization-Control-for-a-2-DoF-RRBot)
+## [Assignment 3: Trajectory Tracking using State Feedback Linearization Control for a 2 DoF RRBot](https://github.com/parth-20-07/Trajectory-Tracking-using-State-Feedback-Linearization-Control-for-a-2-DoF-RRBot)
 
-The aim of [Assignment 3](https://github.com/parth-20-07/Trajectory-Tracking-using-State-Feedback-Linearization-Control-for-a-2-DoF-RRBot) is to learn polynomial Trajectory Generation for a 2 DoF RRBot and design trajectory tracker using State-Feedback Linearlization Controller.
+The aim of [Assignment 3: Trajectory Tracking using State Feedback Linearization Control for a 2 DoF RRBot](https://github.com/parth-20-07/Trajectory-Tracking-using-State-Feedback-Linearization-Control-for-a-2-DoF-RRBot) is to learn polynomial Trajectory Generation for a 2 DoF RRBot and design a trajectory tracker using State-Feedback Linearization Controller.
 
 ## [Assignment 4](https://github.com/parth-20-07/Trajectory-Tracking-using-Robust-Controller-for-a-2-DoF-RRBot)
 
