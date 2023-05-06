@@ -5,7 +5,7 @@
 - [Problem Sets](#problem-sets)
 - [Assignments](#assignments)
     - [Assignment 0: Setup Environment](#assignment-0-setup-environment)
-    - [Assignment 1](#assignment-1)
+    - [Assignment 1: 2 DoF Revolute Revolute Robot Arm Equation of Motion](#assignment-1-2-dof-revolute-revolute-robot-arm-equation-of-motion)
     - [Assignment 2](#assignment-2)
     - [Assignment 3](#assignment-3)
     - [Assignment 4](#assignment-4)
@@ -41,11 +41,11 @@ The aim of the [Assignment 0](./Docs/Programming%20Assignment%200/) is to set up
 
 ## [Assignment 1: 2 DoF Revolute Revolute Robot Arm Equation of Motion](https://github.com/parth-20-07/2-DoF-Revolute-Revolute-robot-arm-Equation-of-Motion)
 
-The aim of [Assignment 1: 2 DoF Revolute Revolute Robot Arm Equation of Motion](https://github.com/parth-20-07/2-DoF-Revolute-Revolute-robot-arm-Equation-of-Motion) is to develop the Equations of Motion for a 2 DoF Revolute Revolute Robot Arm using Euler Lagrange Method.
+The aim of [Assignment 1: 2 DoF Revolute Revolute Robot Arm Equation of Motion](https://github.com/parth-20-07/2-DoF-Revolute-Revolute-robot-arm-Equation-of-Motion) is to develop the Equations of Motion for a 2 DoF Revolute Revolute Robot Arm using the Euler-Lagrange Method.
 
-## [Assignment 2](https://github.com/parth-20-07/Position-Tracking-using-State-Feedback-Controller-Design-for-a-2-DoF-RRBot)
+## [Assignment 2: Position Tracking using State Feedback Controller Design for a 2 DoF RRBot](https://github.com/parth-20-07/Position-Tracking-using-State-Feedback-Controller-Design-for-a-2-DoF-RRBot)
 
-The aim of [Assignment 2](https://github.com/parth-20-07/Position-Tracking-using-State-Feedback-Controller-Design-for-a-2-DoF-RRBot) is to test stability of a 2 DoF RRBot and design position tracking using State-Feedback Controller.
+The aim of [Assignment 2: Position Tracking using State Feedback Controller Design for a 2 DoF RRBot](https://github.com/parth-20-07/Position-Tracking-using-State-Feedback-Controller-Design-for-a-2-DoF-RRBot) is to test the stability of a 2 DoF RRBot and design position tracking using a State-Feedback Controller.
 
 ## [Assignment 3](https://github.com/parth-20-07/Trajectory-Tracking-using-State-Feedback-Linearization-Control-for-a-2-DoF-RRBot)
 
