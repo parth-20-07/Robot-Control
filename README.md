@@ -8,7 +8,7 @@
     - [Assignment 1: 2 DoF Revolute Revolute Robot Arm Equation of Motion](#assignment-1-2-dof-revolute-revolute-robot-arm-equation-of-motion)
     - [Assignment 2: Position Tracking using State Feedback Controller Design for a 2 DoF RRBot](#assignment-2-position-tracking-using-state-feedback-controller-design-for-a-2-dof-rrbot)
     - [Assignment 3: Trajectory Tracking using State Feedback Linearization Control for a 2 DoF RRBot](#assignment-3-trajectory-tracking-using-state-feedback-linearization-control-for-a-2-dof-rrbot)
-    - [Assignment 4](#assignment-4)
+    - [Assignment 4: Trajectory Tracking using Robust Controller for a 2 DoF RRBot](#assignment-4-trajectory-tracking-using-robust-controller-for-a-2-dof-rrbot)
 - [Final Project](#final-project)
 - [Designer Details](#designer-details)
 - [License](#license)
@@ -51,9 +51,9 @@ The aim of [Assignment 2: Position Tracking using State Feedback Controller Desi
 
 The aim of [Assignment 3: Trajectory Tracking using State Feedback Linearization Control for a 2 DoF RRBot](https://github.com/parth-20-07/Trajectory-Tracking-using-State-Feedback-Linearization-Control-for-a-2-DoF-RRBot) is to learn polynomial Trajectory Generation for a 2 DoF RRBot and design a trajectory tracker using State-Feedback Linearization Controller.
 
-## [Assignment 4](https://github.com/parth-20-07/Trajectory-Tracking-using-Robust-Controller-for-a-2-DoF-RRBot)
+## [Assignment 4: Trajectory Tracking using Robust Controller for a 2 DoF RRBot](https://github.com/parth-20-07/Trajectory-Tracking-using-Robust-Controller-for-a-2-DoF-RRBot)
 
-The aim of [Assignment 4](https://github.com/parth-20-07/Trajectory-Tracking-using-Robust-Controller-for-a-2-DoF-RRBot) is to design Robust Controller for Trajectory Tracking for a 2 DoF RRBot.
+The aim of [Assignment 4: Trajectory Tracking using Robust Controller for a 2 DoF RRBot](https://github.com/parth-20-07/Trajectory-Tracking-using-Robust-Controller-for-a-2-DoF-RRBot) is to design Robust Controller for Trajectory Tracking for a 2 DoF RRBot.
 
 # [Final Project](https://github.com/parth-20-07/Sliding-Mode-Control-Based-3D-Trajectory-Tracking-for-UAVs)
 Project Topic: [**Sliding Mode Control Based 3D Trajectory Tracking for UAV**](https://github.com/parth-20-07/Sliding-Mode-Control-Based-3D-Trajectory-Tracking-for-UAVs)
